@@ -36,16 +36,7 @@ Transição em Andamento: Está trocando a calculadora de preços pelo VS Code, 
 O objetivo é o mesmo: ver a tela de "sucesso". Só que agora, em vez de ser a tela do caixa, será a do navegador rodando seu código perfeito (ou quase).
 
 Que a força do flexbox esteja com você! 🚀
-<p align="left">
-    <a href="https://github.com/nycollasbr">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    
-</p>
+
 
 ---
 
