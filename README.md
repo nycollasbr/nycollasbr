@@ -1,38 +1,101 @@
-<h2 align="left">Oi 👋, Me chamo Nycollas Oteral Silva</h2>
+#  Nycollas Oteral Silva
 
-###
+**`Proximo Desenvolvedor Frontend`**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nycollasbr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nycollasbr&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=HTML.%20CSS.%20JAVASCRIPT" height="150" alt="languages graph"  />
-</div>
+**"De Mestre das Vendas a Mago do Código: A Saga do Nycollas"**
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+Atual Missão: Convencer clientes de que o produto é bom. 
 
-###
+Próxima Missão: Convencer o navegador de que o CSS não é uma bruxaria.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+**`Habilidades Atuais:`**
 
-###
+Vender gelo para um penguin.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+Fechar negócio até com quem só veio perguntar o preço.
 
-###
+Ouvir "vou pensar" e transformar em "me vê um".
 
-<h1 align="center">Olá mundo?!!</h1>
+**`Habilidades em Desenvolvimento:`**
 
-###
+Convencer um div a centralizar de uma vez.
+
+Fazer um console.log("Hello, World!").
+
+Descobrir por que o JavaScript acha que [] + {} é uma operação válida e não um erro de lógica humana.
+
+**Frase Típica do Passado:** "Esse aqui é o último que temos!"
+**Frase Típica do Futuro:** "Isso não é um bug, é uma feature não documentada!"
+
+Seu Inimigo Atual: A meta do mês.
+Seu Novo e Temido Inimigo: Um margin: 0 auto; que simplesmente não funciona.
+
+Transição em Andamento: Está trocando a calculadora de preços pelo VS Code, e o "desconto especial" pelo "!important no CSS". Em breve, em vez de fechar uma venda, estará fazendo o merge de um pull request.
+
+O objetivo é o mesmo: ver a tela de "sucesso". Só que agora, em vez de ser a tela do caixa, será a do navegador rodando seu código perfeito (ou quase).
+
+Que a força do flexbox esteja com você! 🚀
+<p align="left">
+    <a href="https://github.com/nycollasbr">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=nycollasbr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycollasbr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
